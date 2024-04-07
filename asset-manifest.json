@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pkkaur13/static/css/main.bf538fe7.css",
+    "main.js": "/pkkaur13/static/js/main.de7b837a.js",
+    "static/media/HeroImage.jpeg": "/pkkaur13/static/media/HeroImage.de0d720207b03672a510.jpeg",
+    "index.html": "/pkkaur13/index.html",
+    "main.bf538fe7.css.map": "/pkkaur13/static/css/main.bf538fe7.css.map",
+    "main.de7b837a.js.map": "/pkkaur13/static/js/main.de7b837a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.de7b837a.js"
+  ]
+}
