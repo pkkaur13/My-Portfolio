@@ -5,6 +5,10 @@ import Navbar from './components/Navbar';
 import Skills from './components/Skills';
 import Hero from './components/HeroSections';
 import Education from './components/Education';
+import Experience from './components/Experience';
+import Projects from './components/Projects';
+import Footer from './components/Footer';
+import Contact from './components/Contact';
 import { BrowserRouter as Router } from 'react-router-dom';
 
 const Body = styled.div`
@@ -29,9 +33,15 @@ function App() {
     <Hero />
     <Wrapper> 
     <Skills />
+    <Experience></Experience>
+    </Wrapper>
+    <Projects></Projects>
+    <Wrapper>
     <Education />
     </Wrapper>
     </Body>
+    <Contact />
+    <Footer />
     </Router>
 </ThemeProvider>
     );
